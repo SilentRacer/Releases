@@ -1,0 +1,25 @@
+{
+  "UseUserLayout": true,
+  "FormWidth": 1600,
+  "FormHeight": 767,
+  "SavedDpi": 192,
+  "ColumnWidths": {
+    "colName": 376,
+    "colButtonRow": 60,
+    "colButtonCol": 60,
+    "colAutoRun": 80,
+    "colUrl": 699,
+    "colCustomTitle": 200,
+    "colAutoLogin": 120,
+    "colLoginId": 200,
+    "colLoginPwd": 260,
+    "colIdSelector": 200,
+    "colPwdSelector": 200,
+    "colSubmitSelector": 200,
+    "colExtraSelector": 200,
+    "colExtraSelectorType": 200,
+    "colExtraValue": 400,
+    "colTableSelector": 500,
+    "colPagingSelector": 500
+  }
+}
